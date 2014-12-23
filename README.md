@@ -1,8 +1,8 @@
 #IPGenerator.py
 
-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+  
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+  
 | . | / | i | p | g | e | n | e | r | a | t | o | r | . | p | y |  
-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+  
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+  
 
 Wanted to scan a huge network? Intranet? Or may be Internet? But messed up with generating the list of IP addresses for specific address ranges. You can use this tool.  
 
