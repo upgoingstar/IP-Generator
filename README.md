@@ -1,5 +1,9 @@
 #IPGenerator.py
 
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+  
+|.|/|i|p|g|e|n|e|r|a|t|o|r|.|p|y|  
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+  
+
 Wanted to scan a huge network? Intranet? Or may be Internet? But messed up with generating the list of IP addresses for specific address ranges. You can use this tool.  
 
 Ipgenerator.py  is basically a script to generate such kind of IP Addresses by just passing a simple switch. This is certainly a helpful script which will come handy when you are performing a specific set of operation (say scanning), on a range of IP Addresses. By using this script, you only need to take the output of this utility in a file, or may be in a variable and play around. Following is a brief description for using the script:
@@ -51,4 +55,13 @@ Ipgenerator.py  is basically a script to generate such kind of IP Addresses by j
  <dt>--help</dt>
   <dd>see the help section.</dd>
 
-</dl>
+</dl>  
+
+Disclaimer: Yes, I know I am a bad programmer and the way I had written this is pathetic, but I was quite keen in getting the purpose solved.  
+
+In case you have any suggestions, query, etc., feel free to reach me at:  
+Email: upgoingstaar@gmail.com  
+Twitter: @upgoingstar
+
+
+
