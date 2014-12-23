@@ -60,7 +60,7 @@ Ipgenerator.py  is basically a script to generate such kind of IP Addresses by j
 <b>Disclaimer:</b> Yes, I know I am a bad programmer and the way I had written this is pathetic, but I was quite keen in getting the purpose solved.  
 
 In case you have any suggestions, query, etc., feel free to reach me at:  
-<b>Email:</b> upgoingstaar@gmail.com   |   <b>Twitter:</b> @upgoingstar
+<b>Email:</b> upgoingstaar@gmail.com   |   <b>Twitter:</b> @upgoingstar   |   [http://3ncrypt0r.blogspot.com](http://3ncrypt0r.blogspot.com)
 
 
 
