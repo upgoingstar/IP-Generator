@@ -1,7 +1,7 @@
 #IPGenerator.py
 
 +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+  
-|.|/|i|p|g|e|n|e|r|a|t|o|r|.|p|y|  
+| . | / | i | p | g | e | n | e | r | a | t | o | r | . | p | y |  
 +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+  
 
 Wanted to scan a huge network? Intranet? Or may be Internet? But messed up with generating the list of IP addresses for specific address ranges. You can use this tool.  
@@ -57,11 +57,11 @@ Ipgenerator.py  is basically a script to generate such kind of IP Addresses by j
 
 </dl>  
 
-Disclaimer: Yes, I know I am a bad programmer and the way I had written this is pathetic, but I was quite keen in getting the purpose solved.  
+<b>Disclaimer:</b> Yes, I know I am a bad programmer and the way I had written this is pathetic, but I was quite keen in getting the purpose solved.  
 
 In case you have any suggestions, query, etc., feel free to reach me at:  
-Email: upgoingstaar@gmail.com  
-Twitter: @upgoingstar
+<b>Email:</b> upgoingstaar@gmail.com  
+<b>Twitter:</b> @upgoingstar
 
 
 
