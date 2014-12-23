@@ -11,25 +11,43 @@ Ipgenerator.py  is basically a script to generate such kind of IP Addresses by j
   <dd>this will print all the IP addresses which are reserved in some way, i.e. Shared Address Space, IETF Protocol Assignments, Private IP Addresses, Loopback, APIPA, Relay Anycast, Benchmarking, RFC5737: Documentation (TEST-NET-1), RFC5737: Documentation (TEST-NET-2), D and E Class IP Addresses.  </dd>
 </dl>
 
---safeips	all public IP Addresses, excluding those which are reserved. This was the option for which this tool was basically created. If you want to scan the whole internet, you can simply use this switch, and pass the output to your scanner. Doing this will exclude all the reserved IP addresses which will save your time as well as legal issues with your scanning.  
+  <dt>--safeips </dt>
+  <dd>all public IP Addresses, excluding those which are reserved. This was the option for which this tool was basically created. If you want to scan the whole internet, you can simply use this switch, and pass the output to your scanner. Doing this will exclude all the reserved IP addresses which will save your time as well as legal issues with your scanning. </dd>
 
---allprivate			all the Private IP Addresses including APIPA and Loopback IPs. "  
+  <dt> --allprivate</dt>
+  <dd> all the Private IP Addresses including APIPA and Loopback IPs. </dd>
 
---allprivaten			all the Private IP Addresses excluding APIPA and Loopback IPs. "  
+  <dt> --allpublic</dt>
+  <dd> all the Private IP Addresses excluding APIPA and Loopback IPs. </dd>
 
---unsafeips	all public IP Addresses, including those which are reserved. So this basically gives all the IP addresses in public space.   
+  <dt> --unsafeips</dt>
+  <dd> all public IP Addresses, including those which are reserved. So this basically gives all the IP addresses in public space. </dd>
 
---a10	this will print all the private IP addresses which exist in Class A, i.e. 10.X.Y.Z series. 
---b172	this will print all the private IP Addresses which exist in Class B, i.e. 172.16.X.Y to 172.31.X.Y series.
---c192	this will print all the private IP Addresses which exist in Class C, i.e. 192.168.X.Y series.
---classA				all the IP addresses which may exist in class A.
---classB				all the IP addresses which may exist in class B.
---classC 			all the IP addresses which may exist in class C.
---classD				all the IP addresses which may exist in class D.
---classE				all the IP addresses which may exist in class E.
---help				see this help section.
+  <dt> --a10</dt>
+  <dd> this will print all the private IP addresses which exist in Class A, i.e. 10.X.Y.Z series. </dd>
 
-Disclaimer: Yes, I know I am a bad programmer and the way I had written this is pathetic, but I was quite keen in getting the purpose solved. 
-In case you have any suggestions, query, etc., feel free to reach me at:
-Email: upgoingstaar@gmail.com
-Twitter: @upgoingstar
+  <dt> --b172</dt>
+  <dd> this will print all the private IP Addresses which exist in Class B, i.e. 172.16.X.Y to 172.31.X.Y series.</dd>
+
+  <dt> -c192</dt>
+  <dd> this will print all the private IP Addresses which exist in Class C, i.e. 192.168.X.Y series.</dd>
+
+ <dt> </dt>
+  <dd> --classA				all the IP addresses which may exist in class A.</dd>
+
+ <dt> </dt>
+  <dd> </dd>
+
+ <dt> </dt>
+  <dd> </dd>
+
+ <dt> </dt>
+  <dd> </dd>
+
+ <dt> </dt>
+  <dd> </dd>
+
+ <dt> </dt>
+  <dd> </dd>
+
+
