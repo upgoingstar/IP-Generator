@@ -15,40 +15,40 @@ Ipgenerator.py  is basically a script to generate such kind of IP Addresses by j
   <dt>--safeips </dt>
   <dd>all public IP Addresses, excluding those which are reserved. This was the option for which this tool was basically created. If you want to scan the whole internet, you can simply use this switch, and pass the output to your scanner. Doing this will exclude all the reserved IP addresses which will save your time as well as legal issues with your scanning. </dd>
 
-  <dt> --allprivate</dt>
-  <dd> all the Private IP Addresses including APIPA and Loopback IPs. </dd>
+  <dt>--allprivate</dt>
+  <dd>all the Private IP Addresses including APIPA and Loopback IPs. </dd>
 
-  <dt> --allpublic</dt>
-  <dd> all the Private IP Addresses excluding APIPA and Loopback IPs. </dd>
+  <dt>--allpublic</dt>
+  <dd>all the Private IP Addresses excluding APIPA and Loopback IPs. </dd>
 
-  <dt> --unsafeips</dt>
-  <dd> all public IP Addresses, including those which are reserved. So this basically gives all the IP addresses in public space. </dd>
+  <dt>--unsafeips</dt>
+  <dd>all public IP Addresses, including those which are reserved. So this basically gives all the IP addresses in public space. </dd>
 
-  <dt> --a10</dt>
-  <dd> this will print all the private IP addresses which exist in Class A, i.e. 10.X.Y.Z series. </dd>
+  <dt>--a10</dt>
+  <dd>this will print all the private IP addresses which exist in Class A, i.e. 10.X.Y.Z series. </dd>
 
-  <dt> --b172</dt>
-  <dd> this will print all the private IP Addresses which exist in Class B, i.e. 172.16.X.Y to 172.31.X.Y series.</dd>
+  <dt>--b172</dt>
+  <dd>this will print all the private IP Addresses which exist in Class B, i.e. 172.16.X.Y to 172.31.X.Y series.</dd>
 
-  <dt> -c192</dt>
-  <dd> this will print all the private IP Addresses which exist in Class C, i.e. 192.168.X.Y series.</dd>
+  <dt>-c192</dt>
+  <dd>this will print all the private IP Addresses which exist in Class C, i.e. 192.168.X.Y series.</dd>
 
- <dt> --classA</dt>
-  <dd> 	all the IP addresses which may exist in class A.</dd>
+ <dt>--classA</dt>
+  <dd>all the IP addresses which may exist in class A.</dd>
 
- <dt> --classB	</dt>
-  <dd> all the IP addresses which may exist in class B.</dd>
+ <dt>--classB	</dt>
+  <dd>all the IP addresses which may exist in class B.</dd>
 
- <dt> --classC	</dt>
-  <dd> all the IP addresses which may exist in class C.</dd>
+ <dt>--classC	</dt>
+  <dd>all the IP addresses which may exist in class C.</dd>
 
- <dt> --classD	</dt>
-  <dd> all the IP addresses which may exist in class D.</dd>
+ <dt>--classD	</dt>
+  <dd>all the IP addresses which may exist in class D.</dd>
 
- <dt> --classE	</dt>
-  <dd> all the IP addresses which may exist in class E.</dd>
+ <dt>--classE	</dt>
+  <dd>all the IP addresses which may exist in class E.</dd>
 
- <dt> --help</dt>
-  <dd> see the help section.</dd>
+ <dt>--help</dt>
+  <dd>see the help section.</dd>
 
 </dl>
