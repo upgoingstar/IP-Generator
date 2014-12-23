@@ -9,7 +9,7 @@ Ipgenerator.py  is basically a script to generate such kind of IP Addresses by j
 
   <dt>--reserved</dt>
   <dd>this will print all the IP addresses which are reserved in some way, i.e. Shared Address Space, IETF Protocol Assignments, Private IP Addresses, Loopback, APIPA, Relay Anycast, Benchmarking, RFC5737: Documentation (TEST-NET-1), RFC5737: Documentation (TEST-NET-2), D and E Class IP Addresses.  </dd>
-</dl>
+
 
   <dt>--safeips </dt>
   <dd>all public IP Addresses, excluding those which are reserved. This was the option for which this tool was basically created. If you want to scan the whole internet, you can simply use this switch, and pass the output to your scanner. Doing this will exclude all the reserved IP addresses which will save your time as well as legal issues with your scanning. </dd>
@@ -32,22 +32,22 @@ Ipgenerator.py  is basically a script to generate such kind of IP Addresses by j
   <dt> -c192</dt>
   <dd> this will print all the private IP Addresses which exist in Class C, i.e. 192.168.X.Y series.</dd>
 
- <dt> </dt>
-  <dd> --classA				all the IP addresses which may exist in class A.</dd>
+ <dt> --classA</dt>
+  <dd> 	all the IP addresses which may exist in class A.</dd>
 
- <dt> </dt>
-  <dd> </dd>
+ <dt> --classB	</dt>
+  <dd> all the IP addresses which may exist in class B.</dd>
 
- <dt> </dt>
-  <dd> </dd>
+ <dt> --classC	</dt>
+  <dd> all the IP addresses which may exist in class C.</dd>
 
- <dt> </dt>
-  <dd> </dd>
+ <dt> --classD	</dt>
+  <dd> all the IP addresses which may exist in class D.</dd>
 
- <dt> </dt>
-  <dd> </dd>
+ <dt> --classE	</dt>
+  <dd> all the IP addresses which may exist in class E.</dd>
 
- <dt> </dt>
-  <dd> </dd>
+ <dt> --help</dt>
+  <dd> see the help section.</dd>
 
-
+</dl>
