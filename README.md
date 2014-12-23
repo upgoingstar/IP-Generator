@@ -22,6 +22,7 @@ python sqlmap.py -hh
 To display help, use the following command:
 > ipgenerator.py  --help
 
+###Other Switches:  
 <dl>
   <dt>--reserved</dt>
   <dd>this will print all the IP addresses which are reserved in some way, i.e. Shared Address Space, IETF Protocol Assignments, Private IP Addresses, Loopback, APIPA, Relay Anycast, Benchmarking, RFC5737: Documentation (TEST-NET-1), RFC5737: Documentation (TEST-NET-2), D and E Class IP Addresses.  </dd>
