@@ -7,10 +7,9 @@ Ipgenerator.py  is basically a script to generate such kind of IP Addresses by j
   <dt>Usage:</dt>
   <dd>ipgenerator.py 		[OPTIONS] --only one argument is required (which is mandatory).</dd>
 
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+  <dt>--reserved</dt>
+  <dd>this will print all the IP addresses which are reserved in some way, i.e. Shared Address Space, IETF Protocol Assignments, Private IP Addresses, Loopback, APIPA, Relay Anycast, Benchmarking, RFC5737: Documentation (TEST-NET-1), RFC5737: Documentation (TEST-NET-2), D and E Class IP Addresses.  </dd>
 </dl>
---reserved	this will print all the IP addresses which are reserved in some way, i.e. Shared Address Space, IETF Protocol Assignments, Private IP Addresses, Loopback, APIPA, Relay Anycast, Benchmarking, RFC5737: Documentation (TEST-NET-1), RFC5737: Documentation (TEST-NET-2), D and E Class IP Addresses.  
 
 --safeips	all public IP Addresses, excluding those which are reserved. This was the option for which this tool was basically created. If you want to scan the whole internet, you can simply use this switch, and pass the output to your scanner. Doing this will exclude all the reserved IP addresses which will save your time as well as legal issues with your scanning.  
 
