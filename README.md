@@ -8,10 +8,21 @@ Wanted to scan a huge network? Intranet? Or may be Internet? But messed up with 
 
 Ipgenerator.py  is basically a script to generate such kind of IP Addresses by just passing a simple switch. This is certainly a helpful script which will come handy when you are performing a specific set of operation (say scanning), on a range of IP Addresses. By using this script, you only need to take the output of this utility in a file, or may be in a variable and play around. Following is a brief description for using the script:
 
-<dl>
-  <dt>Usage:</dt>
-  <dd>ipgenerator.py 		[OPTIONS] --only one argument is required (which is mandatory).</dd>
+To get a list of basic options and switches use:
 
+python sqlmap.py -h
+To get a list of all options and switches use:
+
+python sqlmap.py -hh
+
+
+##Usage:</dt>
+> ipgenerator.py 		[OPTIONS] --only one argument is required (which is mandatory).</dd>
+
+To display help, use the following command:
+> ipgenerator.py  --help
+
+<dl>
   <dt>--reserved</dt>
   <dd>this will print all the IP addresses which are reserved in some way, i.e. Shared Address Space, IETF Protocol Assignments, Private IP Addresses, Loopback, APIPA, Relay Anycast, Benchmarking, RFC5737: Documentation (TEST-NET-1), RFC5737: Documentation (TEST-NET-2), D and E Class IP Addresses.  </dd>
 
