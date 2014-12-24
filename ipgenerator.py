@@ -14,7 +14,7 @@ else:
 		for q in range(0,255):
 			for r in range(0,255):
 				for s in range(0,255):
-					ip = "10." + str(q) + "." + str(r) + "." + str(s)
+					ip = "127." + str(q) + "." + str(r) + "." + str(s)
 					print ip
 		for q in range(64,127):
 			for r in range(0,255):
