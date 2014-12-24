@@ -10,10 +10,7 @@ Ipgenerator.py  is basically a script to generate such kind of IP Addresses by j
 
 To get a list of basic options and switches use:
 
-python sqlmap.py -h
-To get a list of all options and switches use:
-
-python sqlmap.py -hh
+python ipgenerator.py --help
 
 
 ##Usage:</dt>
